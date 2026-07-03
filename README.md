@@ -5,15 +5,15 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 3 of 61
-- **Practitioner**: 11 of 174
+- **Apprentice**: 4 of 61
+- **Practitioner**: 16 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
-- **Authentication vulnerabilities**: 4/14 lab
 - **SQL injection**: 10/18 lab
-- **Authentication**: 0/13 lab
+- **Authentication**: 4/13 lab
+- **Path Traversal**: 6/6 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -48,12 +48,12 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 12  |2026-06-27 |  Authentication  |Username enumeration via subtly different responses |Practitioner |N/A  |
 | 13  |2026-06-28 |  Authentication  |Username enumeration via response timing |Practitioner |N/A  |
 | 14  |2026-06-27 |  Authentication  |Broken brute-force protection, IP block |Practitioner |N/A  |
-| 15  |2026-06-27 |  Authentication  | | |N/A  |
-| 16  |2026-06-27 |  Authentication  | | |N/A  |
-| 17  |2026-06-27 |  Authentication  | | |N/A  |
-| 18  |2026-06-27 |  Authentication  | | |N/A  |
-| 19  |2026-06-27 |  Authentication  | | |N/A  |
-| 20  | |    | | |  |
+| 15  |2026-07-01 |  Path Traversal  |File Path traversal simple case |Apprentice | N/A |
+| 16  |2026-07-03 |  Path Traversal  |Traversal Sequence blocked with absolute path bypass |Practitioner |N/A  |
+| 17  |2026-07-03 |  Path Traversal  |Traversal Sequence stripped non-recursively |Practitioner |N/A  |
+| 18  |2026-07-03 |  Path Traversal  |Traversal Sequence stripped with superfluous URL-decode |Practitioner |N/A  |
+| 19  |2026-07-03 |  Path Traversal  |File path traversal, validation of start of path |Practitioner |N/A  |
+| 20  |2026-07-03 |  Path Traversal  |Validation of file extension with null byte bypass |Practitioner|N/A  |
 | 21  | |    | | |  |
 | 22  | |    | | |  |
 | 23  | |    | | |  |
