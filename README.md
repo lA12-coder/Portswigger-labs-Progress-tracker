@@ -54,12 +54,12 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 18  |2026-07-03 |  Path Traversal  |Traversal Sequence stripped with superfluous URL-decode |Practitioner |N/A  |
 | 19  |2026-07-03 |  Path Traversal  |File path traversal, validation of start of path |Practitioner |N/A  |
 | 20  |2026-07-03 |  Path Traversal  |Validation of file extension with null byte bypass |Practitioner|N/A  |
-| 21  | |    | | |  |
-| 22  | |    | | |  |
-| 23  | |    | | |  |
-| 24  | |    | | |  |
-| 25  | |    | | |  |
-| 26  | |    | | |  |
+| 21  |2026-07-11 | Access Control   | Unprotected admin functionality |Apprentice |N/A  |
+| 22  |2026-07-11 |Access Control    |Unprotected admin functionality with unpredictable URL |Apprentice |N/A  |
+| 23  |2026-07-11 |Access Control    |User role controlled by request |Apprentice |N/A  |
+| 24  |2026-07-11 |Access Control    |User role can be modified in the user profile |Apprentice |N/A |
+| 25  |2026-07-11 |Access Control    |URL Based access control can be circumvented  |Practitioner |N/A  |
+| 26  |2026-07-11 |Access Control    |Method Based access control can be circumvented  |Practitioner |N/A  |
 | 27  | |    | | |  |
 | 28  | |    | | |  |
 | 29  | |    | | |  |
