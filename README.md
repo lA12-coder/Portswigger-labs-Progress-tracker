@@ -62,9 +62,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 25  |2026-07-11 |Access Control    |URL Based access control can be circumvented  |Practitioner |N/A  |
 | 26  |2026-07-11 |Access Control    |Method Based access control can be circumvented  |Practitioner |N/A  |
 | 27  |2026-07-19 | File Upload   |Remote web execution via web shell upload |Apprentice |N/A  |
-| 28  ||2026-07-19 | File Upload   |Web Shell upload via content-type bypass restriction bypass |Apprentice |N/A  |
-| 29  | |    | | |  |
-| 30  | |    | | |  |
+| 28  |2026-07-19 | File Upload   |Web Shell upload via content-type bypass restriction bypass |Apprentice |N/A  |
+| 29  |2026-07-22 | Race Conditions|Limit overrun race conditions |Apprentince |N/A |
+| 30  |2026-07-25 | Race Conditions|Multi-endpoint race conditions |Practioner |N/A  |
 | 31  | |    | | |  |
 | 32  | |    | | |  |
 
