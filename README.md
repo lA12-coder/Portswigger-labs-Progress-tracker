@@ -65,8 +65,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 28  |2026-07-19 | File Upload   |Web Shell upload via content-type bypass restriction bypass |Apprentice |N/A  |
 | 29  |2026-07-22 | Race Conditions|Limit overrun race conditions |Apprentince |N/A |
 | 30  |2026-07-25 | Race Conditions|Multi-endpoint race conditions |Practioner |N/A  |
-| 31  | |    | | |  |
-| 32  | |    | | |  |
+| 31  |2026-07-25 | Race Conditions|lab-race-conditions-single-endpoint | Practioner|N\A  |
+| 32  |2026-07-25 | Race Conditions|lab-race-conditions-exploiting-time-sensitive-vulnerabilities |Practioner |N\A  |
 
 
 
