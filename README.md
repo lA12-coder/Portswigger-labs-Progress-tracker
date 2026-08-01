@@ -67,7 +67,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 30  |2026-07-25 | Race Conditions|Multi-endpoint race conditions |Practitioner |N/A  |
 | 31  |2026-07-25 | Race Conditions|lab-race-conditions-single-endpoint | Practitioner|N\A  |
 | 32  |2026-07-25 | Race Conditions|lab-race-conditions-exploiting-time-sensitive-vulnerabilities |Practitioner |N\A  |
-| 33  |2026-07-25 | Server-side request forgery (SSRF)| Basic SSRF against the local server| Apprentice |N\A  |
+| 33  |2026-08-1 | Server-side request forgery (SSRF)| Basic SSRF against the local server| Apprentice |N\A  |
 | 34  |2026-08-1  | Server-side request forgery (SSRF)| Basic SSRF against another back-end system| Apprentice |N\A  |
 | 35  |2026-08-1 | Server-side request forgery (SSRF)|SSRF with blacklist-based input filter |Practitioner |N\A  |
 | 36  |2026-07-25 | | | |N\A  |
