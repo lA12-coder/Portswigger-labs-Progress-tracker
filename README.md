@@ -5,9 +5,9 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 8 of 61
-- **Practitioner**: 18 of 174
-- **Expert**: 0 of 39
+- **Apprentice**: 13 of 61
+- **Practitioner**: 24 of 174
+- **Expert**: 1 of 39
 
 ## Categories Covered
 
@@ -15,6 +15,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Authentication**: 4/13 lab
 - **Path Traversal**: 6/6 lab
 - **Access Control**: 6/13
+- **File Upload**: 2 lab
+- **Race Condition**: 4/6 lab
+- **Server Side Request Forgery(SSRF)**: 6/7 labs 
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
