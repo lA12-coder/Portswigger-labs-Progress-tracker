@@ -70,14 +70,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 33  |2026-08-1 | Server-side request forgery (SSRF)| Basic SSRF against the local server| Apprentice |N\A  |
 | 34  |2026-08-1  | Server-side request forgery (SSRF)| Basic SSRF against another back-end system| Apprentice |N\A  |
 | 35  |2026-08-1 | Server-side request forgery (SSRF)|SSRF with blacklist-based input filter |Practitioner |N\A  |
-| 36  |2026-07-25 | | | |N\A  |
-| 37  |2026-07-25 | | | |N\A  |
-| 38  |2026-07-25 | | | |N\A  |
-| 39  |2026-07-25 | | | |N\A  |
-| 40  |2026-07-25 | | | |N\A  |
-| 41  |2026-07-25 | | | |N\A  |
-| 42  |2026-07-25 | | | |N\A  |
-| 43  |2026-07-25 | | | |N\A  |
-| 44  |2026-07-25 | | | |N\A  |
-| 45  |2026-07-25 | | | |N\A  |
-| 46  |2026-07-25 | | | |N\A  |
+| 36  |2026-08-2 | Server-side request forgery (SSRF)|Blind SSRF with out-of-band detection |Practitioner |N\A  |
+| 37  |2026-08-2 |Server-side request forgery (SSRF) |SSRF with filter bypass via open redirection vulnerability |Practitioner |N\A  |
+| 38  |2026-08-2 |Server-side request forgery (SSRF) |Lab SSRF With Whitelist Filter |Expert |N\A  |
